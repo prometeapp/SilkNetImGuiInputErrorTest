@@ -1,0 +1,10 @@
+﻿# デフォルトの無視対象ファイル
+/shelf/
+/workspace.xml
+# Rider の無視対象ファイル
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.SilkNetImGuiInputErrorTest.iml
+# エディターベースの HTTP クライアントリクエスト
+/httpRequests/
